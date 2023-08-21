@@ -5,6 +5,7 @@ The book’s rating predictor is a model-based project capable of predicting the
 
 ### Background and Data
 The different machine learning models are based on the Goodreads database which can be found at the following address: https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home. The database contains 11127 books and 11 features for each book. The original data contains 4 rows with extra columns; this is due to an extra separator (;) between the authors ‘names. the cleaned dataset has been uploaded to our GitHub here https://github.com/hassnabdl/PythonLabsProjectS23.git .
+To explore this project please download the dataset (books.csv) and the python notebook
 
 ### Usage
 Insert information about a book. Get a prediction of his average rating.
