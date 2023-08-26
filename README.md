@@ -23,7 +23,7 @@ Hassna Boudali :     hassnabdl;
 Yilun Du:     Jed-NOBODY;
 
 
-Djihene Beladjine :     Djihene; 
+Djihene Beladjine :     DjiheneBA; 
 
 
 Kaoutar Zeroual :     Kaoutar-ZER
